@@ -1,0 +1,24 @@
+{
+  "name": "challenge_express",
+  "version": "1.0.0",
+  "description": "Chez O'Clock, ce qu'on aime le plus, c'est nos étudiants (vous, du coup :heart:).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianaOliveiraMelo/challenge_oblog"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianaOliveiraMelo/challenge_oblog/issues"
+  },
+  "homepage": "https://github.com/JulianaOliveiraMelo/challenge_oblog#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
